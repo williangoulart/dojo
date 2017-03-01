@@ -1,3 +1,5 @@
+# Nome: Willian Goulart
+
 Dado(/^que esteja na home do site do UOL$/) do
   visit 'http://www.bing.com/'
   fill_in "sb_form_q", :with => "uol"
